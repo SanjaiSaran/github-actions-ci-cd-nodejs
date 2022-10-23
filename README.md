@@ -52,3 +52,4 @@ then just run
 
 > docker-compose up --force-recreate --build -d (if you have changed the code and if you want to re-run the service without stopping, you can run this command)
 
+
